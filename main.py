@@ -6,7 +6,7 @@ import os
 
 
 client = commands.Bot(command_prefix = '!')
-TOKEN='ODU4MzMyOTc0Nzg4MTE2NDkx.GWe9I2.of1SCf2iXzT2YA2YFxJhc5phXO9PyHNKtNO4AU'
+TOKEN=''
 
 @client.event
 async def on_ready():
